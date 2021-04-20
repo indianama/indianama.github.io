@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Indianama</title>
-    <link>https://indianama.github.io/</link>
-    <description>Recent content on Indianama</description>
+    <title>pandas on Indianama</title>
+    <link>https://indianama.github.io/tags/pandas/</link>
+    <description>Recent content in pandas on Indianama</description>
     <image>
       <url>https://indianama.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://indianama.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Apr 2021 10:30:03 +0530</lastBuildDate><atom:link href="https://indianama.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Us</title>
-      <link>https://indianama.github.io/about/</link>
-      <pubDate>Tue, 20 Apr 2021 06:16:20 +0530</pubDate>
-      
-      <guid>https://indianama.github.io/about/</guid>
-      <description>We are a team of two people [&amp;lsquo;Karan&amp;rsquo;, &amp;lsquo;Allwyn&amp;rsquo;] trying to understand our massive country &amp;lsquo;India&amp;rsquo; using data and numbers. This site documents our efforts towards that goal.
-authors = [&#39;Karan&#39;, &#39;Allwyn&#39;] We will be posting about:
- How to scrape, wrangle and make sense of data. Visualising data.  You can contact us indianama [at] example.com for:
- 💭 ideas 👍 appreciation 👎 criticism 👋 just to say hi.  This site is made with Hugo and uses the PaperMod Theme.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 19 Apr 2021 10:30:03 +0530</lastBuildDate><atom:link href="https://indianama.github.io/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mcdonald&#39;s North and East Data Scraping</title>
       <link>https://indianama.github.io/mcdonaldsnorth/</link>
@@ -32,8 +20,6 @@ authors = [&#39;Karan&#39;, &#39;Allwyn&#39;] We will be posting about:
       <description>&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;  /&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | Copyright (c) Jupyter Development Team. | Distributed under the terms of the Modified BSD License. |&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-/
 /* The following CSS variables define the main, public API for styling JupyterLab. These variables should be used by all plugins wherever possible. In other words, plugins should not define custom colors, sizes, etc unless absolutely necessary. This enables users to change the visual theme of JupyterLab by changing these variables.</description>
     </item>
-    
-    
     
   </channel>
 </rss>
