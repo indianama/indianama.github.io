@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://indianama.github.io/sitemap.xml

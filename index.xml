@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indianama</title>
+    <link>https://indianama.github.io/</link>
+    <description>Recent content on Indianama</description>
+    <image>
+      <url>https://indianama.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://indianama.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://indianama.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://indianama.github.io/about/</link>
+      <pubDate>Tue, 20 Apr 2021 06:16:20 +0530</pubDate>
+      
+      <guid>https://indianama.github.io/about/</guid>
+      <description>We are a team of two people [&amp;lsquo;Karan&amp;rsquo;, &amp;lsquo;Allwyn&amp;rsquo;] trying to understand our massive country &amp;lsquo;India&amp;rsquo; using data and numbers. This site documents our efforts towards that goal.
+authors = [&#39;Karan&#39;, &#39;Allwyn&#39;] We will be posting about:
+ How to scrape, wrangle and make sense of data. Visualising data.  You can contact us indianama [at] example.com for:
+ 💭 ideas 👍 appreciation 👎 criticism 👋 just to say hi.  This site is made with Hugo and uses the PaperMod Theme.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
