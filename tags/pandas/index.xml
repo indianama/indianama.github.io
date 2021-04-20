@@ -17,8 +17,10 @@
       <pubDate>Mon, 19 Apr 2021 10:30:03 +0530</pubDate>
       
       <guid>https://indianama.github.io/mcdonaldsnorth/</guid>
-      <description>&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;  /&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | Copyright (c) Jupyter Development Team. | Distributed under the terms of the Modified BSD License. |&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-/
-/* The following CSS variables define the main, public API for styling JupyterLab. These variables should be used by all plugins wherever possible. In other words, plugins should not define custom colors, sizes, etc unless absolutely necessary. This enables users to change the visual theme of JupyterLab by changing these variables.</description>
+      <description>Contents 1&amp;nbsp;&amp;nbsp;Premise2&amp;nbsp;&amp;nbsp;Imports3&amp;nbsp;&amp;nbsp;Headers and Var Setup4&amp;nbsp;&amp;nbsp;Scraping The Data5&amp;nbsp;&amp;nbsp;Viewing the Scraped Data6&amp;nbsp;&amp;nbsp;Links Premise Mcdonald&amp;rsquo;s India is divided into two entities:
+ Connaught Plaza Restaurants Private Limited: North &amp;amp; East, Hardcastle Restaurants Private Limited: South &amp;amp; West.  This notebook scrapes the data for the North &amp;amp; East from the official website.
+Imports We will be using BeautifulSoup to scrape the data and pandas to store the scraped data.
+import pandas as pd import requests from bs4 import BeautifulSoup Headers and Var Setup Headers can be set via copying from Firefox or any other browser of your choice.</description>
     </item>
     
   </channel>
